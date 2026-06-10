@@ -24,6 +24,6 @@ options:
   baud: 9600
   gpsd_options: "-n"
 schema:
-  device: device
+  device: device(subsystem=tty)
   baud: int
   gpsd_options: str
