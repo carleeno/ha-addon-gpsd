@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository/#repository-configuration
 name: GPSD add-on repository
-url: "https://github.com/leo-stan/ha-addon-gpsd"
-maintainer: leo-stan
+url: "https://github.com/carleeno/ha-addon-gpsd"
+maintainer: carleeno

@@ -19,7 +19,7 @@ The device typically appears as `/dev/ttyUSB0` or `/dev/ttyACM0`.
 2. Click the **⋮** menu (top-right) → **Repositories**.
 3. Add the repository URL:
    ```
-   https://github.com/leo-stan/ha-addon-gpsd
+   https://github.com/carleeno/ha-addon-gpsd
    ```
 4. Find **GPSD** in the store and click **Install**.
 5. Configure the add-on (see below) and click **Start**.
